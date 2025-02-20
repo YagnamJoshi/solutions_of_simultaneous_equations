@@ -1,0 +1,2 @@
+# solutions_of_simultaneous_equations
+Codes for solving simultaneous equations
