@@ -41,4 +41,9 @@ For example, in the `Jacobi's method.ipynb` notebook, the system of equations is
 ```python
 eq1 = "5x + 2y + 1z = 12"
 eq2 = "1x + 4y + 2z = 15"
-eq3 = "1x + 2y + 5z = 20"
+eq3 = "1x + 2y + 5z = 20" 
+
+#which gives solutions 
+#x: 1
+#y: 2
+#z: 3
